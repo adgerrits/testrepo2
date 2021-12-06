@@ -7,6 +7,4 @@ Ga naar [aap in root](../aap.md)
 
 Ga naar [README.md in root](../README.md)
 
-Ga naar [README.md in root](/)
-
-Ga naar [README.md in root](/README.md)
+Ga naar [README.md in root](/x/README.md)
